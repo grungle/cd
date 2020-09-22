@@ -43,7 +43,7 @@ For quick reference, an index of classes and properties, and summaries of the cu
 | Donald Hobern | GBIF | @dhobern |  
 | Jana Hoffman  | MfN Berlin | jana.hoffmann AT mfn-berlin.de |  
 | Sharif Islam | Naturalis Biodiversity Center | @sharifX |  
-| Shelley James | RBGS | @grungle |  
+| Shelley James | Western Australian Herbarium | @grungle |  
 | Janeen Jones | Field Museum | jjones AT fieldmuseum.org |  
 | Dimitris Koureas | Naturalis | @dkoureas |  
 | Kerstin Lehnert | Columbia University | @klehnert55 |  
